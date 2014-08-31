@@ -13,7 +13,7 @@
   </repository></repositories>
   <distributionManagement>
   	<repository>
-	  <id>releases</id>
+	  <id>deployment</id>
 	  <url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-releases</url>
 	</repository>
 	<snapshotRepository>
