@@ -3,6 +3,7 @@ import edu.stanford.nlp.ling.Word;
 import edu.stanford.nlp.process.PTBTokenizer.PTBTokenizerFactory;
 import edu.stanford.nlp.process.Tokenizer;
 import edu.stanford.nlp.process.TokenizerFactory;
+
 /**
 * An example for Homework 0 of 11791 F13
 *
